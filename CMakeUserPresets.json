@@ -1,0 +1,9 @@
+{
+    "version": 4,
+    "vendor": {
+        "conan": {}
+    },
+    "include": [
+        "C:\\Users\\safet\\source\\repos\\MeshTask\\build\\CMakePresets.json"
+    ]
+}
